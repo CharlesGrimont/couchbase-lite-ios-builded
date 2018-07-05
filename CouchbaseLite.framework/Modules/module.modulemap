@@ -1,0 +1,1 @@
+framework module CouchbaseLite { module All { umbrella header "../Headers/CouchbaseLite.h" export * module * { export * }} module JSView { umbrella header "../../Extras/CBLRegisterJSViewCompiler.h" export * module * { export * }}}
